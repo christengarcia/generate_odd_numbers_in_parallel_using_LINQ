@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2C5B319C-3E81-4FCC-99C3-B0A5062C4499}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="generate_odd_numbers_in_parallel_using_LINQ/Program.cs">
+    <Files>
+      <File FileName="generate_odd_numbers_in_parallel_using_LINQ/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.generate__odd__numbers__in__parallel__using__LINQ PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
